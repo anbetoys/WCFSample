@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMemberServiceLibrary", "WCFMemberServiceLibrary.csproj", "{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMemberServiceGUI", "..\WCFMemberServiceGUI\WCFMemberServiceGUI.csproj", "{172AA8E3-B9D2-4DF6-951C-579804DD9721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{172AA8E3-B9D2-4DF6-951C-579804DD9721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172AA8E3-B9D2-4DF6-951C-579804DD9721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172AA8E3-B9D2-4DF6-951C-579804DD9721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172AA8E3-B9D2-4DF6-951C-579804DD9721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
