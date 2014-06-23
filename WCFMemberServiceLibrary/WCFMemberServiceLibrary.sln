@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMemberServiceLibrary", "WCFMemberServiceLibrary.csproj", "{3EDAC4C7-55EB-470E-9932-BC0D2D340D78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFMemberServiceGUI", "..\WCFMemberServiceGUI\WCFMemberServiceGUI.csproj", "{172AA8E3-B9D2-4DF6-951C-579804DD9721}"

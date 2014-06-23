@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFSampleClient", "WCFSampleClient.csproj", "{92CE7109-CA24-49A2-A1A3-E66D7E30AD87}"
 EndProject
 Global
